@@ -1,5 +1,5 @@
-# pythonda_pandas_ile_cok_boyutlu_veri
+# pythonda_pandas_modülü
 
-# burada veriyi incelek ve çok kullanılan methotları uyguladım.
-
-# Vede sonra iki değişkendeki verileri grafiklerle görselleştirmesini gerçekleştirdim.
+# 01 - tek boyutlu veri yapısı
+# 02 - çok boyutlu veri yapısı
+# 03 - Pandas DataFrame
