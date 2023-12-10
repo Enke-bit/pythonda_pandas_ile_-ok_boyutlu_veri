@@ -5,3 +5,4 @@
 # 03 - Pandas DataFrame
 # 04 - Seçme, İndeksleme, Filtreleme yapma
 # 05 - Pandas'da Önemli Metotlar
+# 06 - Aritmetik İşlemler , Fonksiyon Uygulamak
